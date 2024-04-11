@@ -214,13 +214,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 682074576}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 122621072bf5a4ac89e5d54f0573bed1, type: 3}
+  m_Script: {fileID: 11500000, guid: 8a9df4d021a76426c8105da2697190b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   bezierPoints:
-  - point: {x: -3.2380362, y: -1.6947546, z: -1.6651864}
-  - point: {x: -2.1293201, y: -1.1806526, z: -1.2475789}
-  - point: {x: -0.93722695, y: 0.4683516, z: 0.69668436}
-  - point: {x: -0.31705153, y: -1.0437648, z: -1.2202837}
-  - point: {x: 1.7427369, y: 0.62009335, z: 0.6555095}
-  - point: {x: 3.2175875, y: 0.7684567, z: 0.69998217}
+  - point: {x: 0, y: 0, z: 0}
+    tangent: {x: 1, y: 1, z: 1}

@@ -214,7 +214,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 682074576}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a9df4d021a76426c8105da2697190b1, type: 3}
+  m_Script: {fileID: 11500000, guid: 1e0d04faf2d9e415bac51bc02d565198, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bezierPoints: []
+  bezierPoints:
+  - point: {x: -2.837879, y: 1.6459696, z: 0}
+  - point: {x: -3.077546, y: 2.5796318, z: 0}
+  - point: {x: -1.375462, y: 3.046462, z: 0}
+  - point: {x: -0.6609595, y: 2.0035417, z: 0}
+  - point: {x: 0.57378435, y: 2.1908422, z: 0}
+  - point: {x: 2.0443387, y: 1.3621814, z: 0}
